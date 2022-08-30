@@ -4,8 +4,9 @@ from time import sleep
 from telethon.sync import TelegramClient
 from telethon.tl.functions.photos import UploadProfilePhotoRequest, DeletePhotosRequest
 from telethon.tl.functions.account import UpdateProfileRequest
-api_id = 2776086
-api_hash = "a873cc6bf92417d1fd96c865522c96a5"
+
+api_id = 1234567 # Put your api_id here
+api_hash = "2adsadadasd23" # Put your api_hash here, make sure to put it as a string
 session_name = '.session'
 
 
